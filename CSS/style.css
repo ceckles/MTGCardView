@@ -1,0 +1,13 @@
+#cards img, #card img{
+  width:100%;
+}
+
+@media(min-width:960px){
+  #cards .col-md-3 .well{
+    height: 400px;
+  }
+
+  #cards .col-md-3 img{
+    height: 300px;
+  }
+}
